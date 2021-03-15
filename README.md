@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SiddharhthShyniben.SiddharthShyniben)
 ## Hey there! I'm Siddharth. 
 
 ###  About Me 
@@ -12,10 +13,8 @@
 - &nbsp; Angular | Angular Material
 - &nbsp; Some NodeJS
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthShyniben" alt="Siddharth&#39;s GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShyniben" alt="Top Langs">
-</p>
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthShyniben&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSHyniben&theme=dark)
 
 ### Connect with Me
 
