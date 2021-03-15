@@ -1,6 +1,6 @@
 ## Hey there! I'm Siddharth. 
 
-### 👨🏻‍💻 About Me 
+###  About Me 
 
 - &nbsp; I’m currently testing out my skills by making many projects in JS/Angular
 - &nbsp; Mainly interested in backend work and libraries, but am OK with [back-of-the-frontend work](https://css-tricks.com/the-great-divide/) (I learnt Angular after all).
