@@ -17,11 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthShyniben" alt="Top Langs">
 </p>
 
-### My Todo stats
-(This might take a while to load)
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
 ### Connect with Me
 
 <p align="center">
