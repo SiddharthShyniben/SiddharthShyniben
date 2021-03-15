@@ -16,6 +16,10 @@
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthShyniben&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSHyniben&theme=dark)
 
+### Activity
+
+<!--START_SECTION:activity-->
+
 ### Connect with Me
 
 <p align="center">
