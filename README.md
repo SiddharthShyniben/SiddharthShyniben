@@ -18,7 +18,7 @@
 </p>
 
 ### My Todo stats
-
+(This might take a while to load)
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
