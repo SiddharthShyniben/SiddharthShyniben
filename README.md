@@ -1,5 +1,5 @@
+![## Hey there `<developers/>`! I'm Siddharth.](./header.png)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SiddharhthShyniben.SiddharthShyniben)
-## Hey there `<developers/>`! I'm Siddharth. 
 
 ###  About Me 
 
