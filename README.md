@@ -20,8 +20,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
-2. ❗️ Opened issue [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
-3. 🗣 Commented on [#122](https://github.com/JSJitsu/ai-battle-website/issues/122) in [JSJitsu/ai-battle-website](https://github.com/JSJitsu/ai-battle-website)
+2. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
+3. ❗️ Opened issue [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
 4. 🗣 Commented on [#122](https://github.com/JSJitsu/ai-battle-website/issues/122) in [JSJitsu/ai-battle-website](https://github.com/JSJitsu/ai-battle-website)
 5. 🗣 Commented on [#122](https://github.com/JSJitsu/ai-battle-website/issues/122) in [JSJitsu/ai-battle-website](https://github.com/JSJitsu/ai-battle-website)
 <!--END_SECTION:activity-->
