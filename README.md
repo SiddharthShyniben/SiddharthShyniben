@@ -1,4 +1,4 @@
-![## Hey there `<developers/>`! I'm Siddharth.](./header.png)
+![Hey there <developers/>! I'm Siddharth.](./header.png)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SiddharhthShyniben.SiddharthShyniben)
 
 ###  About Me 
@@ -43,3 +43,31 @@
 </p>
 
 (That's all for now :smirk:.)
+<br>
+<sub>
+   <sup>
+     <sub>
+       <sup>
+         <sub>
+           <sup>
+             <sub>
+               <sup>
+                 <sub>
+                   <sup>
+                     <sub>
+                       <sup>
+                         Why do I have a 1 month update schedule? Because the grass (Profile README) is always greener on the other web-side.
+                         <br>
+                         How are you still reading this by the way?
+                       </sup>
+                     </sub>
+                   </sup>
+                 </sub>
+               </sup>
+             </sub>
+           </sup>
+         </sub>
+       </sup>
+     </sub>
+  </sup>
+</sub>
