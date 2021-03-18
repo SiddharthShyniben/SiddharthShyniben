@@ -14,6 +14,7 @@
 - &nbsp; Some NodeJS
 
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthShyniben&count_private=true&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSHyniben&theme=dark)
 
 ### Activity
@@ -25,6 +26,10 @@
 4. ❗️ Opened issue [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
 5. 🗣 Commented on [#122](https://github.com/JSJitsu/ai-battle-website/issues/122) in [JSJitsu/ai-battle-website](https://github.com/JSJitsu/ai-battle-website)
 <!--END_SECTION:activity-->
+
+### My Todoist Stats:
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 ### Connect with Me
 
