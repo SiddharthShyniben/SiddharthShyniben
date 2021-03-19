@@ -28,13 +28,8 @@
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
-<!-- TODO-IST:START -->
-🏆  10,771 Karma Points           
-🌸  Completed 17 tasks today           
-🗓  Completed 72 tasks this week           
-✅  Completed 1,129 tasks so far           
-⏳  Longest streak is 43 days
-<!-- TODO-IST:END -->
+
+I am a Todoist **<td-karma-level></td-karma-level>**
 
 ### Connect with Me
 
@@ -56,9 +51,7 @@
                    <sup>
                      <sub>
                        <sup>
-                         Why do I have a 1 month update schedule? Because the grass (Profile README) is always greener on the other web-side.
-                         <br>
-                         How are you still reading this by the way?
+                         Why do I have a 1 month update schedule? Because the grass (Profile README) is always greener on the other web-side. How are you still reading this by the way?
                        </sup>
                      </sub>
                    </sup>
