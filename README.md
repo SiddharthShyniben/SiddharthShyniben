@@ -37,7 +37,7 @@
 ⏳  Longest streak is 43 days
 <!-- TODO-IST:END-->
 
-I'm a Todoist <td-karma-level></td-karma-level>.
+I'm a Todoist <td-karma-level></td-karma-level> with <td-karma></td-karma> Karma.
 
 ### Connect with Me
 
