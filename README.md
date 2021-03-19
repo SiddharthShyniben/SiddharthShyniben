@@ -29,7 +29,8 @@
 
 ### My Todoist Stats:
 
-I am a Todoist **<td-karma-level></td-karma-level>**
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END-->
 
 ### Connect with Me
 
