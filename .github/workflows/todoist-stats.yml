@@ -10,9 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      - name: README with Todoist
-        uses: SiddharthShyniben/todoist-readme@v0.0.1
+      - uses: SiddharthShyniben/todoist-readme@v0.0.1
         with: 
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: true
