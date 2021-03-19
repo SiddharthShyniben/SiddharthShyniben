@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41243](https://github.com/angular/angular/issues/41243) in [angular/angular](https://github.com/angular/angular)
-2. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
-3. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
-4. ❗️ Opened issue [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
-5. 🗣 Commented on [#122](https://github.com/JSJitsu/ai-battle-website/issues/122) in [JSJitsu/ai-battle-website](https://github.com/JSJitsu/ai-battle-website)
+1. ❗️ Closed issue [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+2. 🗣 Commented on [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+3. ❗️ Opened issue [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+4. ❗️ Opened issue [#41243](https://github.com/angular/angular/issues/41243) in [angular/angular](https://github.com/angular/angular)
+5. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
