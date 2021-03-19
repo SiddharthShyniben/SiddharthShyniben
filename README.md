@@ -1,4 +1,4 @@
-![Hey there <developers/>! I'm Siddharth.](./header.png)
+![Hey there <developers>! I'm Siddharth.](./header.png)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SiddharhthShyniben.SiddharthShyniben)
 
 ###  About Me 
@@ -13,9 +13,9 @@
 - &nbsp; Angular | Angular Material
 - &nbsp; Some NodeJS
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthShyniben&count_private=true&show_icons=true&theme=dark)
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthShyniben&amp;count_private=true&amp;show_icons=true&amp;theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSHyniben&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthSHyniben&amp;theme=dark)
 
 ### Activity
 
@@ -42,7 +42,7 @@ I'm a Todoist <td-karma-level>Master</td-karma-level>.
 ### Connect with Me
 
 <p align="center">
-&nbsp; <a href="mailto:siddharth.muscat@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"  width="50px"/></a>
+&nbsp; <a href="mailto:siddharth.muscat@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="50px"></a>
 </p>
 
 (That's all for now :smirk:.)
@@ -72,3 +72,4 @@ I'm a Todoist <td-karma-level>Master</td-karma-level>.
      </sub>
   </sup>
 </sub>
+</developers>
