@@ -29,7 +29,7 @@
 
 ### My Todoist Stats:
 
-I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>10814</td-k>** Karma. I have completed **<td-ttc>1146</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>33</td-cdsc>** days which started on **<td-cdsf>Wed Feb 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>17</td-cwsc>** weeks which started from **<td-cwsf>Mon Nov 23 2020</td-cwsf>**.
+<strong style="white-space: nowrap;background: linear-gradient(to left, #ff2400, #e81d1d, #e8b71d, #1ddde8, #2b1de8, #dd00f3, #dd00f3);">I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>10814</td-k>** Karma. I have completed **<td-ttc>1146</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>33</td-cdsc>** days which started on **<td-cdsf>Wed Feb 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>17</td-cwsc>** weeks which started from **<td-cwsf>Mon Nov 23 2020</td-cwsf>**.</strong>
 
 ### Connect with Me
 
