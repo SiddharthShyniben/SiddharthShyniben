@@ -29,15 +29,7 @@
 
 ### My Todoist Stats:
 
-<!-- TODO-IST:START -->
-🏆  10,814 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 89 tasks this week           
-✅  Completed 1,146 tasks so far           
-⏳  Longest streak is 43 days
-<!-- TODO-IST:END-->
-
-I'm a Todoist <td-kl>Master</td-kl> with <td-k>10814</td-k> Karma. I have completed <td-ttc>1146</td-ttc> tasks and currently I am on a daily streak of <td-cdsc>33</td-cdsc> days which started on <td-cdsf>Wed Feb 10 2021</td-cdsf> and a weekly streak of <td-cwsc>17</td-cwsc> weeks which started from <td-cwsf>Mon Nov 23 2020</td-cwsf>.
+I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>10814</td-k>** Karma. I have completed **<td-ttc>1146</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>33</td-cdsc>** days which started on **<td-cdsf>Wed Feb 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>17</td-cwsc>** weeks which started from **<td-cwsf>Mon Nov 23 2020</td-cwsf>**.
 
 ### Connect with Me
 
