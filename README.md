@@ -37,7 +37,7 @@
 ⏳  Longest streak is 43 days
 <!-- TODO-IST:END-->
 
-I'm a Todoist **<td-karma-level>Master</td-karma-level>** with **<td-karma>10814</td-karma>** Karma. I have completed **<tdttc></tdttc>** tasks and currently I am on a daily streak of **<tdcdsc></tdcdsc>** days which started on **<tdcdsf></tdcdsf>** and a weekly streak of **<tdcwsc></tdcwsc>** weeks which started from **<tdcwsf></tdcwst>**.
+I'm a Todoist <td-kl>Master</td-kl> with <td-k>10814</td-k> Karma. I have completed <td-ttc></td-ttc> tasks and currently I am on a daily streak of <td-cdsc></td-cdsc> days which started on <td-cdsf></td-cdsf> and a weekly streak of <td-cwsc></td-cwsc> weeks which started from <td-cwsf></td-cwsf>.
 
 ### Connect with Me
 
