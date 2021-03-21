@@ -31,6 +31,9 @@
 
 I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>10888</td-k>** Karma. I have completed **<td-ttc>1162</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>35</td-cdsc>** days which started on **<td-cdsf>Wed Feb 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>17</td-cwsc>** weeks which started from **<td-cwsf>Mon Nov 23 2020</td-cwsf>**.
 
+My longest daily streak lasted <td-mdsc></td-mdsc> days, starting from <td-mdsf></td-mdsf> and ending on <td-mdst></td-mdst>.
+My longest weekly streak lasted <td-mwsc></td-mwsc> weeks, starting from <td-mwsf></td-mwsf> and ending on <td-mwst></td-mwst>.
+
 ### Connect with Me
 
 <p align="center">
