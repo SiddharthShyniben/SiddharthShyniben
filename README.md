@@ -70,6 +70,8 @@ My longest weekly streak lasted **<td-mwsc>17</td-mwsc>** weeks, starting from *
     * <span style="color:green">+</span> Usage of advanced features.
 </td-ka>
 <br>
+<br>
+<br>
 PS: This data + activity was generated using my action [SiddharthShyniben/todoist-readme](SiddharthShyniben/todoist-readme) forked from [abisheknaiidu/todoist-readme](abisheknaiidu/todoist-readme)
 
 ### Connect with Me
