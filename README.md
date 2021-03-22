@@ -20,8 +20,8 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
-2. 🗣 Commented on [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+1. ❗️ Opened issue [#60](https://github.com/letsgetrandy/brototype/issues/60) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
+2. 🗣 Commented on [#10](https://github.com/letsgetrandy/brototype/issues/10) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
 3. ❗️ Opened issue [#3142](https://github.com/jsdom/jsdom/issues/3142) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
 4. ❗️ Opened issue [#41243](https://github.com/angular/angular/issues/41243) in [angular/angular](https://github.com/angular/angular)
 5. 🗣 Commented on [#4553](https://github.com/github/docs/issues/4553) in [github/docs](https://github.com/github/docs)
