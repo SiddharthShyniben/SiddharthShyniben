@@ -36,6 +36,7 @@ My longest weekly streak lasted **<td-mwsc>17</td-mwsc>** weeks, starting from *
 
 #### Activity
 
+// Under bug fixing
 <td-ka>
 * 2 hours ago <span style="color:green">+11</span> <span style="color:red">-0</span>
   * Activity:
