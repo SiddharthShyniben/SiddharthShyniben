@@ -36,7 +36,39 @@ My longest weekly streak lasted **<td-mwsc>17</td-mwsc>** weeks, starting from *
 
 #### Activity
 
-<td-ka></td-ka>
+<td-ka>
+* 2 hours ago <span style="color:green">+11</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Addition of tasks.
+    * <span style="color:green">+</span> Completion of tasks.
+    * <span style="color:green">+</span> Usage of advanced features.
+* 4 hours ago <span style="color:green">+3</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Completion of tasks.
+* 14 hours ago <span style="color:green">+16</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Addition of tasks.
+    * <span style="color:green">+</span> Completion of tasks.
+    * <span style="color:green">+</span> Usage of advanced features.
+* a day ago <span style="color:green">+16</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Addition of tasks.
+    * <span style="color:green">+</span> Completion of tasks.
+    * <span style="color:green">+</span> Usage of advanced features.
+* a day ago <span style="color:green">+8</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Daily Goal reached.
+* a day ago <span style="color:green">+16</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Addition of tasks.
+    * <span style="color:green">+</span> Completion of tasks.
+    * <span style="color:green">+</span> Usage of advanced features.
+* 2 days ago <span style="color:green">+16</span> <span style="color:red">-0</span>
+  * Activity:
+    * <span style="color:green">+</span> Addition of tasks.
+    * <span style="color:green">+</span> Completion of tasks.
+    * <span style="color:green">+</span> Usage of advanced features.
+</td-ka>
 
 PS: This data + activity was generated using my action [SiddharthShyniben/todoist-readme](SiddharthShyniben/todoist-readme) forked from [abisheknaiidu/todoist-readme](abisheknaiidu/todoist-readme)
 
