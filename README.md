@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1440](https://github.com/github/markup/issues/1440) in [github/markup](https://github.com/github/markup)
-2. 🗣 Commented on [#61](https://github.com/letsgetrandy/brototype/issues/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
-3. 💪 Opened PR [#61](https://github.com/letsgetrandy/brototype/pull/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
-4. ❗️ Opened issue [#60](https://github.com/letsgetrandy/brototype/issues/60) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
-5. 🗣 Commented on [#10](https://github.com/letsgetrandy/brototype/issues/10) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
+1. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/SiddharthShyniben/pull/1) in [SiddharthShyniben/SiddharthShyniben](https://github.com/SiddharthShyniben/SiddharthShyniben)
+2. 🗣 Commented on [#1440](https://github.com/github/markup/issues/1440) in [github/markup](https://github.com/github/markup)
+3. 🗣 Commented on [#61](https://github.com/letsgetrandy/brototype/issues/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
+4. 💪 Opened PR [#61](https://github.com/letsgetrandy/brototype/pull/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
+5. ❗️ Opened issue [#60](https://github.com/letsgetrandy/brototype/issues/60) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
