@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
-2. ❗️ Opened issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
-3. ❗️ Opened issue [#1064](https://github.com/feathericons/feather/issues/1064) in [feathericons/feather](https://github.com/feathericons/feather)
-4. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/SiddharthShyniben/pull/1) in [SiddharthShyniben/SiddharthShyniben](https://github.com/SiddharthShyniben/SiddharthShyniben)
-5. 🗣 Commented on [#1440](https://github.com/github/markup/issues/1440) in [github/markup](https://github.com/github/markup)
+1. ❗️ Closed issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+2. 🗣 Commented on [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+3. ❗️ Opened issue [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
+4. ❗️ Opened issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+5. ❗️ Opened issue [#1064](https://github.com/feathericons/feather/issues/1064) in [feathericons/feather](https://github.com/feathericons/feather)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
