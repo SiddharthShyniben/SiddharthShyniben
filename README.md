@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1064](https://github.com/feathericons/feather/issues/1064) in [feathericons/feather](https://github.com/feathericons/feather)
-2. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/SiddharthShyniben/pull/1) in [SiddharthShyniben/SiddharthShyniben](https://github.com/SiddharthShyniben/SiddharthShyniben)
-3. 🗣 Commented on [#1440](https://github.com/github/markup/issues/1440) in [github/markup](https://github.com/github/markup)
-4. 🗣 Commented on [#61](https://github.com/letsgetrandy/brototype/issues/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
-5. 💪 Opened PR [#61](https://github.com/letsgetrandy/brototype/pull/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
+1. ❗️ Opened issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+2. ❗️ Opened issue [#1064](https://github.com/feathericons/feather/issues/1064) in [feathericons/feather](https://github.com/feathericons/feather)
+3. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/SiddharthShyniben/pull/1) in [SiddharthShyniben/SiddharthShyniben](https://github.com/SiddharthShyniben/SiddharthShyniben)
+4. 🗣 Commented on [#1440](https://github.com/github/markup/issues/1440) in [github/markup](https://github.com/github/markup)
+5. 🗣 Commented on [#61](https://github.com/letsgetrandy/brototype/issues/61) in [letsgetrandy/brototype](https://github.com/letsgetrandy/brototype)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
