@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
-2. 🗣 Commented on [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
-3. ❗️ Opened issue [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
-4. ❗️ Opened issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
-5. ❗️ Opened issue [#1064](https://github.com/feathericons/feather/issues/1064) in [feathericons/feather](https://github.com/feathericons/feather)
+1. 🗣 Commented on [#215](https://github.com/isaacs/github/issues/215) in [isaacs/github](https://github.com/isaacs/github)
+2. ❗️ Closed issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+3. 🗣 Commented on [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
+4. ❗️ Opened issue [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
+5. ❗️ Opened issue [#98](https://github.com/halfmoonui/halfmoon/issues/98) in [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
