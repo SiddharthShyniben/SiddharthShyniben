@@ -37,6 +37,9 @@ My longest weekly streak lasted **<td-mwsc>19</td-mwsc>** weeks, starting from *
 #### Activity
 
 Here's a log of my activity:
+<details>
+
+Activity
 <td-ka>
 * 2 hours ago <span style="color:green">+11</span> <span style="color:red">-0</span>
   * Activity:
@@ -70,6 +73,7 @@ Here's a log of my activity:
     * <span style="color:green">+</span> Completion of tasks.
     * <span style="color:green">+</span> Usage of advanced features.
 </td-ka>
+</details>
 <br>
 <br>
 <br>
