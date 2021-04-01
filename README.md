@@ -75,8 +75,6 @@ Activity
 </td-ka>
 </details>
 <br>
-<br>
-<br>
 PS: This data + activity was generated using my action [SiddharthShyniben/todoist-readme](SiddharthShyniben/todoist-readme) forked from [abisheknaiidu/todoist-readme](abisheknaiidu/todoist-readme)
 
 ### Connect with Me
