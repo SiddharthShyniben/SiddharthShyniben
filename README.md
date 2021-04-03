@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/npm/cli/issues/417) in [npm/cli](https://github.com/npm/cli)
-2. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+1. ❗️ Opened issue [#384](https://github.com/florinpop17/app-ideas/issues/384) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+2. 🗣 Commented on [#417](https://github.com/npm/cli/issues/417) in [npm/cli](https://github.com/npm/cli)
 3. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
-4. 🗣 Commented on [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
-5. ❗️ Opened issue [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+4. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+5. 🗣 Commented on [#20383](https://github.com/angular/angular-cli/issues/20383) in [angular/angular-cli](https://github.com/angular/angular-cli)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
