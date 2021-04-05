@@ -20,10 +20,10 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/isaacs/github/issues/215) in [isaacs/github](https://github.com/isaacs/github)
-2. ❗️ Opened issue [#384](https://github.com/florinpop17/app-ideas/issues/384) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-3. 🗣 Commented on [#417](https://github.com/npm/cli/issues/417) in [npm/cli](https://github.com/npm/cli)
-4. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+1. 🗣 Commented on [#269](https://github.com/kallaway/100-days-of-code/issues/269) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+2. 🗣 Commented on [#215](https://github.com/isaacs/github/issues/215) in [isaacs/github](https://github.com/isaacs/github)
+3. ❗️ Opened issue [#384](https://github.com/florinpop17/app-ideas/issues/384) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+4. 🗣 Commented on [#417](https://github.com/npm/cli/issues/417) in [npm/cli](https://github.com/npm/cli)
 5. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
 <!--END_SECTION:activity-->
 
