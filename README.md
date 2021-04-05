@@ -29,7 +29,7 @@
 
 ### My Todoist Stats:
 
-I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>11,471</td-k>** Karma. I have completed **<td-ttc>1341</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>47</td-cdsc>** days which started on **<td-cdsf>Wednesday February 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>19</td-cwsc>** weeks which started from **<td-cwsf>Monday November 23 2020</td-cwsf>**.
+I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>11,471</td-k>** Karma. I have completed **<td-ttc>1342</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>47</td-cdsc>** days which started on **<td-cdsf>Wednesday February 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>19</td-cwsc>** weeks which started from **<td-cwsf>Monday November 23 2020</td-cwsf>**.
 
 My longest daily streak lasted **<td-mdsc>47</td-mdsc>** days, starting from **<td-mdsf>Wednesday February 10 2021</td-mdsf>** and ending on **<td-mdst>Monday April 5 2021</td-mdst>**.
 My longest weekly streak lasted **<td-mwsc>19</td-mwsc>** weeks, starting from **<td-mwsf>Monday November 23 2020</td-mwsf>** and ending on **<td-mwst>Sunday March 21 2021</td-mwst>**.
