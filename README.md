@@ -21,10 +21,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
-2. 🗣 Commented on [#62](https://github.com/LappleApple/feedmereadmes/issues/62) in [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
-3. 🗣 Commented on [#3142](https://github.com/request/request/issues/3142) in [request/request](https://github.com/request/request)
-4. 🗣 Commented on [#269](https://github.com/kallaway/100-days-of-code/issues/269) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
-5. 🗣 Commented on [#215](https://github.com/isaacs/github/issues/215) in [isaacs/github](https://github.com/isaacs/github)
+2. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+3. 🗣 Commented on [#62](https://github.com/LappleApple/feedmereadmes/issues/62) in [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
+4. 🗣 Commented on [#3142](https://github.com/request/request/issues/3142) in [request/request](https://github.com/request/request)
+5. 🗣 Commented on [#269](https://github.com/kallaway/100-days-of-code/issues/269) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
