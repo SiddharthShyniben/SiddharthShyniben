@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
-2. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+1. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+2. 🗣 Commented on [#12](https://github.com/darekkay/todoist-export/issues/12) in [darekkay/todoist-export](https://github.com/darekkay/todoist-export)
 3. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
-4. 🗣 Commented on [#62](https://github.com/LappleApple/feedmereadmes/issues/62) in [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes)
-5. 🗣 Commented on [#3142](https://github.com/request/request/issues/3142) in [request/request](https://github.com/request/request)
+4. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+5. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
