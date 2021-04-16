@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/sindresorhus/project-ideas/issues/89) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+1. ❗️ Opened issue [#38257](https://github.com/nodejs/node/issues/38257) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#89](https://github.com/sindresorhus/project-ideas/issues/89) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
-3. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
-4. 🗣 Commented on [#12](https://github.com/darekkay/todoist-export/issues/12) in [darekkay/todoist-export](https://github.com/darekkay/todoist-export)
-5. 🗣 Commented on [#31](https://github.com/sindresorhus/project-ideas/issues/31) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+3. 🗣 Commented on [#89](https://github.com/sindresorhus/project-ideas/issues/89) in [sindresorhus/project-ideas](https://github.com/sindresorhus/project-ideas)
+4. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+5. 🗣 Commented on [#12](https://github.com/darekkay/todoist-export/issues/12) in [darekkay/todoist-export](https://github.com/darekkay/todoist-export)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
