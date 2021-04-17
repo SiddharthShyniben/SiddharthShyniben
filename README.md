@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
-2. ❗️ Opened issue [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
-3. 💪 Opened PR [#38260](https://github.com/nodejs/node/pull/38260) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#38257](https://github.com/nodejs/node/issues/38257) in [nodejs/node](https://github.com/nodejs/node)
-5. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/fcd/pull/1) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
+1. ❗️ Opened issue [#2](https://github.com/SiddharthShyniben/fcd/issues/2) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
+2. 🗣 Commented on [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+3. ❗️ Opened issue [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+4. 💪 Opened PR [#38260](https://github.com/nodejs/node/pull/38260) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#38257](https://github.com/nodejs/node/issues/38257) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
