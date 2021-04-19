@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38260](https://github.com/nodejs/node/issues/38260) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Closed issue [#2](https://github.com/SiddharthShyniben/fcd/issues/2) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
-3. ❗️ Opened issue [#2](https://github.com/SiddharthShyniben/fcd/issues/2) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
-4. 🗣 Commented on [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
-5. ❗️ Opened issue [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+1. ❗️ Closed issue [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+2. 🗣 Commented on [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+3. 🗣 Commented on [#38260](https://github.com/nodejs/node/issues/38260) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Closed issue [#2](https://github.com/SiddharthShyniben/fcd/issues/2) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
+5. ❗️ Opened issue [#2](https://github.com/SiddharthShyniben/fcd/issues/2) in [SiddharthShyniben/fcd](https://github.com/SiddharthShyniben/fcd)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
