@@ -3,7 +3,7 @@
 
 ###  About Me 
 
-- &nbsp; I’m currently testing out my skills by making many projects in JS/Angular
+- &nbsp; I’m currently testing out my skills by making many projects in JS/Angular, most of which help developers.
 - &nbsp; Mainly interested in backend work and libraries, but am OK with [back-of-the-frontend work](https://css-tricks.com/the-great-divide/) (I learnt Angular after all).
 
 ### Tech Stack
