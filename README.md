@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
-2. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
-3. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/template/pull/1) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
-4. 🗣 Commented on [#2667](https://github.com/PrismJS/prism/issues/2667) in [PrismJS/prism](https://github.com/PrismJS/prism)
-5. ❗️ Closed issue [#3543](https://github.com/jshint/jshint/issues/3543) in [jshint/jshint](https://github.com/jshint/jshint)
+1. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+2. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+3. 🎉 Merged PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
+4. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
+5. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/template/pull/1) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
