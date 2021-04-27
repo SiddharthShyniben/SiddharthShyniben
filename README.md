@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
-2. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
-3. 🎉 Merged PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
-4. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
-5. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/template/pull/1) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
+1. 🗣 Commented on [#5705](https://github.com/wenzhixin/bootstrap-table/issues/5705) in [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
+2. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+3. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+4. 🎉 Merged PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
+5. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
