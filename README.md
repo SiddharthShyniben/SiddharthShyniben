@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#654](https://github.com/pedroslopez/whatsapp-web.js/issues/654) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-2. 🗣 Commented on [#5705](https://github.com/wenzhixin/bootstrap-table/issues/5705) in [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
-3. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
-4. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
-5. 🎉 Merged PR [#2](https://github.com/SiddharthShyniben/template/pull/2) in [SiddharthShyniben/template](https://github.com/SiddharthShyniben/template)
+1. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+2. ❗️ Opened issue [#654](https://github.com/pedroslopez/whatsapp-web.js/issues/654) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+3. 🗣 Commented on [#5705](https://github.com/wenzhixin/bootstrap-table/issues/5705) in [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
+4. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+5. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
