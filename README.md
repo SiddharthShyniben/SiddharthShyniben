@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
-2. ❗️ Opened issue [#654](https://github.com/pedroslopez/whatsapp-web.js/issues/654) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-3. 🗣 Commented on [#5705](https://github.com/wenzhixin/bootstrap-table/issues/5705) in [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table)
-4. 🎉 Merged PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
-5. 💪 Opened PR [#1](https://github.com/SiddharthShyniben/othello-bot/pull/1) in [SiddharthShyniben/othello-bot](https://github.com/SiddharthShyniben/othello-bot)
+1. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+2. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+3. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+4. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
+5. ❗️ Opened issue [#654](https://github.com/pedroslopez/whatsapp-web.js/issues/654) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
