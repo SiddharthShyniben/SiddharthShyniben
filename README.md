@@ -20,9 +20,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9743](https://github.com/forem/forem/issues/9743) in [forem/forem](https://github.com/forem/forem)
+1. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
 2. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
-3. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+3. 🗣 Commented on [#9743](https://github.com/forem/forem/issues/9743) in [forem/forem](https://github.com/forem/forem)
 4. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
 5. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
