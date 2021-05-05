@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+1. 🗣 Commented on [#9743](https://github.com/forem/forem/issues/9743) in [forem/forem](https://github.com/forem/forem)
 2. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
 3. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
-4. 🗣 Commented on [#2975](https://github.com/npm/cli/issues/2975) in [npm/cli](https://github.com/npm/cli)
-5. ❗️ Opened issue [#654](https://github.com/pedroslopez/whatsapp-web.js/issues/654) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+4. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
+5. 🗣 Commented on [#13652](https://github.com/forem/forem/issues/13652) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
 
 ### My Todoist Stats:
