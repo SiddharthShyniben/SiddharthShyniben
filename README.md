@@ -20,11 +20,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
+1. ❗️ Opened issue [#223](https://github.com/hakluke/how-to-exit-vim/issues/223) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
 2. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
-3. 🗣 Commented on [#13659](https://github.com/forem/forem/issues/13659) in [forem/forem](https://github.com/forem/forem)
-4. 💪 Opened PR [#13680](https://github.com/forem/forem/pull/13680) in [forem/forem](https://github.com/forem/forem)
-5. 🗣 Commented on [#13665](https://github.com/forem/forem/issues/13665) in [forem/forem](https://github.com/forem/forem)
+3. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
+4. 🗣 Commented on [#13659](https://github.com/forem/forem/issues/13659) in [forem/forem](https://github.com/forem/forem)
+5. 💪 Opened PR [#13680](https://github.com/forem/forem/pull/13680) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
 
 ### Connect with Me
