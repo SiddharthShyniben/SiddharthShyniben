@@ -27,57 +27,6 @@
 5. 🗣 Commented on [#13659](https://github.com/forem/forem/issues/13659) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
 
-### My Todoist Stats:
-
-I'm a Todoist **<td-kl>Master</td-kl>** with **<td-k>11,839</td-k>** Karma. I have completed **<td-ttc>1647</td-ttc>** tasks and currently I am on a daily streak of **<td-cdsc>77</td-cdsc>** days which started on **<td-cdsf>Wednesday February 10 2021</td-cdsf>** and a weekly streak of **<td-cwsc>23</td-cwsc>** weeks which started from **<td-cwsf>Monday November 23 2020</td-cwsf>**.
-
-My longest daily streak lasted **<td-mdsc>77</td-mdsc>** days, starting from **<td-mdsf>Wednesday February 10 2021</td-mdsf>** and ending on **<td-mdst>Friday May 7 2021</td-mdst>**.
-My longest weekly streak lasted **<td-mwsc>23</td-mwsc>** weeks, starting from **<td-mwsf>Monday November 23 2020</td-mwsf>** and ending on **<td-mwst>Sunday March 21 2021</td-mwst>**.
-
-#### Activity
-
-Here's a log of my activity:
-<details>
-
-Activity
-<td-ka>
-* 2 hours ago <span style="color:green">+11</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Addition of tasks.
-    * <span style="color:green">+</span> Completion of tasks.
-    * <span style="color:green">+</span> Usage of advanced features.
-* 4 hours ago <span style="color:green">+3</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Completion of tasks.
-* 14 hours ago <span style="color:green">+16</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Addition of tasks.
-    * <span style="color:green">+</span> Completion of tasks.
-    * <span style="color:green">+</span> Usage of advanced features.
-* a day ago <span style="color:green">+16</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Addition of tasks.
-    * <span style="color:green">+</span> Completion of tasks.
-    * <span style="color:green">+</span> Usage of advanced features.
-* a day ago <span style="color:green">+8</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Daily Goal reached.
-* a day ago <span style="color:green">+16</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Addition of tasks.
-    * <span style="color:green">+</span> Completion of tasks.
-    * <span style="color:green">+</span> Usage of advanced features.
-* 2 days ago <span style="color:green">+16</span> <span style="color:red">-0</span>
-  * Activity:
-    * <span style="color:green">+</span> Addition of tasks.
-    * <span style="color:green">+</span> Completion of tasks.
-    * <span style="color:green">+</span> Usage of advanced features.
-</td-ka>
-</details>
-<br>
-
-PS: This data + activity was generated using [this](https://github.com/SiddharthShyniben/todoist-readme) action forked from [here](https://github.com/abisheknaiidu/todoist-readme).
-
 ### Connect with Me
 
 <p align="center">
