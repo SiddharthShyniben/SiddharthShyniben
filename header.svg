@@ -77,7 +77,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hey there, I'm Siddharth</h1>
+				<h1>Hey there, <br /> I'm Siddharth</h1>
 				<p>Click to see the source</p>
 			</div>
 		</div>
