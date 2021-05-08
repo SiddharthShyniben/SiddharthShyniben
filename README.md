@@ -20,9 +20,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
-2. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
-3. ❗️ Opened issue [#223](https://github.com/hakluke/how-to-exit-vim/issues/223) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
+1. ❗️ Opened issue [#2078](https://github.com/JonathanGin52/JonathanGin52/issues/2078) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#2077](https://github.com/JonathanGin52/JonathanGin52/issues/2077) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#13026](https://github.com/timburgan/timburgan/issues/13026) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
 5. 🗣 Commented on [#13680](https://github.com/forem/forem/issues/13680) in [forem/forem](https://github.com/forem/forem)
 <!--END_SECTION:activity-->
