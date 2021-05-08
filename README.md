@@ -1,4 +1,4 @@
-![Hey there <developers>! I'm Siddharth.](./header.png)
+![Hey there <developers>! I'm Siddharth.](./header.svg)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SiddharhthShyniben.SiddharthShyniben)
 
 ###  About Me 
