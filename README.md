@@ -1,7 +1,5 @@
 ```js
-// This is a quine. Don't believe me? Try running it in node
 const code = [
-    "// This is a quine. Don't believe me? Try running it in node",
     "const code = [",
     "",
     "];",
