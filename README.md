@@ -32,7 +32,6 @@ I don't really work on them.
 - Deno
 - VimScript
 - Lua
-
 - Java, Go, Python (kind of)
 
 ## Projects
