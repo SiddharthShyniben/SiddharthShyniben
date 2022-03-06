@@ -39,6 +39,8 @@ I don't really work on them.
 These are the notable ones. If you really love coding, you should take a stroll
 through my repos.
 
+- [PlanckColors](https://github.com/SiddharthShyniben/planckcolors): Possibly
+  the smallest color library for Node.js
 - [Unbug](https://github.com/SiddharthShyniben/unbug): A feature packed
   debugging and timing utility for Node.js
 - [Hanna (WIP)](https://github.com/SiddharthShyniben/hanna): Beautiful Hashnode
