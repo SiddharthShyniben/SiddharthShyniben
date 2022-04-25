@@ -4,8 +4,8 @@ I'm a full-stack hobbyist developer who loves learning. I thrive at the soft
 spot between building cool stuff and learning new things.
 
 I have started tons of projects but haven't finished them, because I prefer
-experimenting over completing projects. I've been described as "a god level
-developer who doesn't build projects". However, there are some of my notable
+experimenting over completing projects. I've been described as ["a god level
+developer who doesn't build projects"](./od.png). However, there are some of my notable
 projects [here](#projects)
 
 I'm primarily the best at JavaScript and I've built tons of things in it. But I
