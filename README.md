@@ -2,7 +2,9 @@ sid here. i’ve been breaking things for 8+ years to see how they work. i thriv
 
 i tend to start tons of projects and leave them as experiments rather than "finishing" them. i've been described as a  ["a god level developer who doesn't build projects"](./od.png)—my github is mostly a graveyard of curiosity. i’m currently focusing on academic foundations, so most of this is "as-is" snapshots of various learning phases.
 
-i'm primarily a javascript person ([certified >99% of pros on codingame](https://www.codingame.com/certification/FMBamJBEWhb2f4UOV8pGFQ)) but i've touched typescript, angular, svelte, html/css, node, deno, and bits of c, java, rust, and go. i am an avid vimmer and ill go for tuis any day.
+i'm primarily a javascript person ([certified >99% of pros on codingame](https://www.codingame.com/certification/FMBamJBEWhb2f4UOV8pGFQ)) but i've touched typescript, angular, svelte, html/css, node, deno, and bits of c, java, rust, and go.
+
+i am an avid vimmer and ill go for tuis any day. i also blogged for a few years on [dev.to](https://dev.to/SiddharthShyniben).
 
 feel free to take a stroll through my repos and see if you can steal anything. notable experiments:
 
