@@ -4,7 +4,7 @@ i tend to start tons of projects and leave them as experiments rather than "fini
 
 i'm primarily a javascript person ([certified >99% of pros on codingame](https://www.codingame.com/certification/FMBamJBEWhb2f4UOV8pGFQ)) but i've touched typescript, angular, svelte, html/css, node, deno, and bits of c, java, rust, and go.
 
-i am an avid vimmer and ill go for tuis any day. i also blogged for a few years on [dev.to](https://dev.to/SiddharthShyniben).
+i love code golf - i create [hyper-compressed programs](https://github.com/nuff-said) for fun. i am an avid vimmer and ill go for tuis any day. i also blogged for a few years on [dev.to](https://dev.to/SiddharthShyniben).
 
 feel free to take a stroll through my repos and see if you can steal anything. notable experiments:
 
